@@ -81,7 +81,7 @@ export default function Login() {
               </div>
               <div className="div-btn">
                 <Button
-                  variant="secondary"
+                  variant="primary"
                   disabled={loading}
                   className="w-100"
                   type="submit"
